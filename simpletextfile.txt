@@ -1,1 +1,2 @@
-this is asimple text file.
+Tis simple text file. file updating
+
