@@ -1,2 +1,3 @@
 Tis simple text file. file updating
-new code changes updates.
+new code changes updates
+changes in master.
